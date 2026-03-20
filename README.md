@@ -6,9 +6,7 @@ TokTik es un clon de la interfaz de usuario de TikTok enfocado en la visualizaci
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 📸 Video Funcionalidad
-
-<video src="./prueba.mp4" controls="controls" width="200" height="300"></video>
-
+https://github.com/user-attachments/assets/a078119d-4d64-4a7f-b2d2-9cb2a43db344
 
 ## 🚀 Características
 
